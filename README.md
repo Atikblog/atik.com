@@ -1,5 +1,5 @@
 # atik.com
-<!doctype html>
+
 <html>
     <head><title>Atikur rahman </title></head>
 <body>
